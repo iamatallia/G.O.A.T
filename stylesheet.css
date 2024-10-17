@@ -2,15 +2,16 @@
     text-align: center;
     text-transform: inherit;
     font-family: monospace;
-    color: rgb(61, 40, 95);
+    color: rgb(235, 161, 52);
     font-size: xx-large;
 }
 #info{
     font-size: 35px;
     text-align: center;
     font-family: monospace;
-    color: rgb(61, 40, 95);
+    color: rgb(235, 161, 52);
 }
-#glo :hover{
-    background-image: url("https://upload.wikimedia.org/wikipedia/en/7/7e/GloRilla_-_Glorious.png");
+#glo:hover{
+   transform: scale(1.5);
+   
 }
