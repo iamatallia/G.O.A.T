@@ -1,6 +1,13 @@
 #heading {
     text-align: center;
-    text-decoration: line-through;
+    text-transform: inherit;
+    font-family: monospace;
+    color: rgb(61, 40, 95);
+    font-size: xx-large;
+}
+#info{
+    font-size: 35px;
+    text-align: center;
     font-family: monospace;
     color: rgb(61, 40, 95);
 }
