@@ -15,3 +15,22 @@
    transform: scale(1.5);
    
 }
+#info2{
+    color: rgb(235, 161, 52);
+    font-size: larger;
+    font-family: monospace;
+}
+#offcanvasLabel{
+    color: red;
+    font-size: xx-large;
+}
+#home{
+font-size: x-large;
+}
+#floatingTextarea{
+    color: darkgreen;
+}
+#comment{
+    font-size: large;
+    font-family: monospace;
+}
